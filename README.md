@@ -12,7 +12,7 @@ Copy a part of the source s3 bucket's content to the destination s3 bucket. The 
 
 NOTE: duration of the task is 8 hours.
 
-## Access
+## Access 
 Request following information before start:
 - Access key ID 
 - Secret access key
